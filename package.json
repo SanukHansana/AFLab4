@@ -1,0 +1,19 @@
+{
+  "name": "aflab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanukHansana/AFLab4.git"
+  },
+  "author": "Sanuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanukHansana/AFLab4/issues"
+  },
+  "homepage": "https://github.com/SanukHansana/AFLab4#readme"
+}
